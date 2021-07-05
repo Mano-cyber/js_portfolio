@@ -1,0 +1,29 @@
+#text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#o {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bubble {
+    border: 3px solid #04551c;
+    display: block;
+    position: absolute;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+}
+
+body {
+    background-color: #2154B2;
+}
